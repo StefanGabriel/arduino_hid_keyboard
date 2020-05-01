@@ -141,7 +141,7 @@ void loop() {
   char key = keypad.getKey();
   if(key){
     byte value = decode_keypad_entry(key);
-    if(value == 0x20 || value == 0x25){
+    if((value == 0x20 || value == 0x25) && (key == '*' || key == '#')){
       UsbKeyboard.sendKeyStroke(value, MOD_SHIFT_LEFT);
     }
     else {
