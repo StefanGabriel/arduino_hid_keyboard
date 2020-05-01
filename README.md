@@ -35,3 +35,7 @@ All of the above buttons can be customised to execute any scenario you want (I d
 Upload the code on the Arduino Uno, disconnect the cable and connect the microUSB cable.
 
 A link to youtube with a visual demostration can be found at (it is in romanian, at your request I will make one in english or at least subtitles in english):
+
+Thanks to my teacher Pietraru Radu Nicolae of Polytechnic University of Bucharest for giving me a start for this project.
+
+This Project was created by Anca Stefan Gabriel of Faculty of Computer Science and Automatic Control, the Department of Automatic Control, The Polytechnic University of Bucharest (Romania).
