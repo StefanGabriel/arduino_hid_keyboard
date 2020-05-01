@@ -13,7 +13,7 @@ Besides the Arduino Board, make sure you have:
 - microUsb Male - Type A Male cable (or the alternative from above)
 - USb Type B Male - USB Type A cable (to program Arduino Uno)
 - many male-male dupont wires
-- one 860p breadboard
+- two 860p breadboards (one will be enough, I taped the board and the keypad to most part of the breadboards)
 
 The list is a little big, you can save "space" by having a genuine board, for which you can reprogram the USB controller (atmega 16U2). Also, I recomment to solder the components on a prototyping  (or just the USB interface with the diodes and resistors, I don't trust the breadboard and neither should you, many thing could happen when a resistor will not make contact, or a diode, which is more important, with the resistor you will lose connection, but the diode will stop reverse current, for example).
 
