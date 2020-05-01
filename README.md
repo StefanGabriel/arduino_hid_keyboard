@@ -35,5 +35,3 @@ All of the above buttons can be customised to execute any scenario you want (I d
 Upload the code on the Arduino Uno, disconnect the cable and connect the microUSB cable.
 
 A link to youtube with a visual demostration can be found at (it is in romanian, at your request I will make one in english or at least subtitles in english):
-
-Upload the code and you will be good to go
